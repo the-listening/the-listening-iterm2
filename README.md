@@ -2,7 +2,7 @@
 
 ### the-listenings theme for [iTerm2](https://www.iterm2.com)
 
-Dark subtle pastel theme based on [Dracula](https://draculatheme.com/iterm/) for bashing ✨
+Dark subtle pastel theme based on [Dracula](https://draculatheme.com/iterm/) for bashing ✨ 👨🏽‍💻
 
 ![the-listening syntax theme screenshot](screenshot.png)
 
