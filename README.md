@@ -9,6 +9,6 @@ Dark subtle pastel theme based on [Dracula](https://draculatheme.com/iterm/) for
 ## Installation / usage
 
 - To Install **Preferences > Profiles > Colors > Color Presets > Import...** 
-Import [the-listening.itermcolors](the-listening.itermcolors)
+[the-listening.itermcolors](the-listening.itermcolors)
 
 Enjoy! 
